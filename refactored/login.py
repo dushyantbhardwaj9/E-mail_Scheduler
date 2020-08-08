@@ -52,6 +52,7 @@ class Login:
 
         self.login.mainloop()
 
+    # TODO: Add below module for login feature 
     # def check_creds(self):
     #     c.execute("SELECT username,password from users")
     #     for s in c.fetchall():
